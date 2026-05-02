@@ -44,7 +44,7 @@
 ## 9. Pantalla de login de Admin Console en http://localhost:4848
 ![Login de Admin Console](capturas/09-payara-login.png)
 ## 10. Dashboard principal de Payara tras iniciar sesión
-![Dashboard de Payara](capturas/payara-dashboard.png)
+![Dashboard de Payara](capturas/10-payara-dashboard.png)
 ## 11. Pantalla del Connection Pool MySQLPool creado
 ![Connection Pool MySQLPool](capturas/11-connection-pool.png)
 ## 12. Resultado del botón Ping mostrando conexión exitosa a MySQL
