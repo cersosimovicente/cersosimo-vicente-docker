@@ -34,26 +34,26 @@
 
 ## **Parte 2 — MySQL (3 capturas)**
 ## 6. Logs de MySQL mostrando: ready for connections
-![Logs de MySQL](capturas/06-logs-mysql.png)
+![Logs de MySQL](capturas/06-mysql-logs.png)
 ## 7. Salida de SHOW DATABASES; mostrando la base appdb
-![Bases de datos](capturas/07-bases-datos.png)
+![Bases de datos](capturas/07-mysql-databases.png)
 ## 8. Salida de SELECT * FROM usuarios; con los datos del init.sql
-![Datos de usuarios](capturas/08-datos-usuarios.png)
+![Datos de usuarios](08-mysql-tabla.png)
 
 ## **Parte 3 — Payara Admin Console / GUI (5 capturas)**
 ## 9. Pantalla de login de Admin Console en http://localhost:4848
-![Login de Admin Console](capturas/09-login-admin-console.png)
+![Login de Admin Console](capturas/09-payara-login.png)
 ## 10. Dashboard principal de Payara tras iniciar sesión
-![Dashboard de Payara](capturas/10-dashboard-payara.png)
+![Dashboard de Payara](capturas/payara-dashboard.png)
 ## 11. Pantalla del Connection Pool MySQLPool creado
-![Connection Pool MySQLPool](capturas/11-connection-pool-mysql.png)
+![Connection Pool MySQLPool](capturas/11-connection-pool.png)
 ## 12. Resultado del botón Ping mostrando conexión exitosa a MySQL
-![Ping a MySQL](capturas/12-ping-mysql.png)
+![Ping a MySQL](capturas/12-ping-exitoso.png)
 ## 13. JDBC Resource jdbc/MySQLDS visible en la consola
 ![JDBC Resource](capturas/13-jdbc-resource.png)
 
 ## Parte 4 — Conectividad entre contenedores (1 captura)
 ## 14. Salida del ping de Payara hacia mysql-container desde la terminal
-![Ping de Payara a MySQL](capturas/14-ping-payara-mysql.png)
+![Ping de Payara a MySQL](capturas/14-ping-contenedores.png)
 
 
